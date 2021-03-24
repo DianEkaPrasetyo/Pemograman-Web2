@@ -1,0 +1,2 @@
+Wilayah|Positif|Dirawat|Sembuh|Meninggal|Operator|Nim
+DKI Jakarta|109354|52311|50233|6810|Dian Eka Prasetyo|181011401970
